@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: multiple-eureka-service
+server:
+  port: 8181
